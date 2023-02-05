@@ -1,0 +1,8 @@
+@use "../abstracts/colors" as *;
+
+.company-name {
+  margin-bottom: 0.5em;
+  font-size: 3rem;
+  font-family: "Cinzel", serif;
+  color: $gold;
+}

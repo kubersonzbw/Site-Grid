@@ -1,0 +1,14 @@
+@use "../abstracts/colors" as *;
+body {
+  font-family: "Cinzel", serif;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.6rem;
+  height: 100vh;
+  color: $white;
+  background-color: $dark;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
